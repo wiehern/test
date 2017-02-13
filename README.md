@@ -6,5 +6,3 @@ seems ok
 again
 ### fourth
 ha
-## resume
-cool
